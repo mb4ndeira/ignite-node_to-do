@@ -22,9 +22,11 @@
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Create tasks;\
-:heavy_check_mark: Check tasks complete;\
-:heavy_check_mark: Delete tasks;
+:heavy_check_mark: Create task;\
+:heavy_check_mark: List all tasks;\
+:heavy_check_mark: Edit task (Title, deadline);\
+:heavy_check_mark: Check task complete;\
+:heavy_check_mark: Delete task;
 
 ## :rocket: Technologies ##
 
@@ -49,13 +51,13 @@ $ cd ignite-node_to-do
 $ yarn
 
 # Run the project
-$ yarn start
+$ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](https://github.com/mb4ndeira/ignite-react_to-do/blob/main/LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](https://github.com/mb4ndeira/ignite-node_to-do/blob/main/LICENSE.md) file.
 
 &#xa0;
