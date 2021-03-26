@@ -42,10 +42,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/mb4ndeira/ignite-node_to-do
+$ git clone https://github.com/mb4ndeira/to-do_node
 
 # Access
-$ cd ignite-node_to-do
+$ cd to-do_node
 
 # Install dependencies
 $ yarn
@@ -58,6 +58,6 @@ $ yarn dev
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](https://github.com/mb4ndeira/ignite-node_to-do/blob/main/LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 &#xa0;
